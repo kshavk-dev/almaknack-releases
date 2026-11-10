@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Life Steward</title>
+    <link>https://github.com/kshavk-dev/life-steward-releases</link>
+    <description>Updates for Life Steward</description>
+    <language>en</language>
+    <item>
+      <title>Version 0.2.0</title>
+      <pubDate>Tue, 10 Nov 2026 16:26:29 GMT</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>Goals page</b>: one card per goal with a visual (book shelf, trip steps, practice weeks, meditation days, smoke-free milestones, nights journaled), &quot;Am I on pace for 25 books?&quot; chart (warm-up chart until 1 Jan 2027), and a Books list. Add goals (steps or practice), tick steps, log practice, add and edit books.</li><li><b>Health page</b>: Body (smoke-free milestones 1W–1Y, exercise days a week vs 3), Mind (meditation heatmap, late nights vs weekend days off), Checkups (how close each one is, next 12 months; add dates, &quot;Done today&quot;).</li><li><b>Overview Week</b> (reading this week, how late work ran, this week&#x27;s leadership lessons) and <b>Month</b> (books, smoke-free, life balance vs last month). <b>What needs me?</b> on Today.</li><li><b>Rules engine</b> (tested): smoke slip, work stretch (2 / 3+ late nights), 7 days without reading, reading pace, 3 days without meditating, goals stalled 3 weeks, checkups due within 30 days. Smoke-free counter restarts after a slip.</li><li><b>Check-ins now remember more</b>: the book you name, finishing a book, progress on your goals, and &quot;Worth remembering?&quot; facts that go into About you only when you press Remember.</li><li><b>Menu bar leaf</b>: today&#x27;s check-ins, smoke-free days, pages, meditation and the top two nudges, with Check in / Open.</li><li><b>Fixes</b>: answer and reply boxes grow with the text like Claude&#x27;s and never spill past the corners; drafts survive quitting. Own sidebar and hidden title bar, so dividers are one quiet line; warmer dark palette like Claude&#x27;s. Fewer Keychain prompts (the key is read once per launch; Settings no longer reads the secret).</li><li><b>Updates from inside the app</b>: Life Steward → Check for Updates…, or Settings → Updates (checks daily on its own). New versions download, verify their signature and install themselves.</li><li>Settings: reading goal (books, year, pages a book). People and gifts are left out on purpose (Keshav will design People step by step).</li></ul>]]></description>
+      <enclosure url="https://github.com/kshavk-dev/life-steward-releases/releases/download/v0.2.0/Life-Steward-0.2.0.zip" sparkle:edSignature="fkbyZPGgEt1+hc9Ko9CdX7QCd8pCGOp/DM7Iu3Fd1UrHrtfcmi0tGiwxEqjKH5xRMj6e3T9MPNrGZlw5sga1Aw==" length="2145590" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
