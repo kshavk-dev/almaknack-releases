@@ -6,6 +6,15 @@
     <description>Updates for Almaknack</description>
     <language>en</language>
     <item>
+      <title>Version 0.2.2</title>
+      <pubDate>Thu, 12 Nov 2026 11:52:43 GMT</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li><b>New icon, &quot;Ring Glow&quot;</b>: a tree&#x27;s growth rings (nature&#x27;s own almanac, one ring a year) spreading from a warm centre, with an orange dot for today. It replaces the leaf in the Dock, the sidebar and the menu bar.</li><li>The blue keyboard-focus box no longer sticks to Overview in the sidebar or to the tab switches.</li></ul>]]></description>
+      <enclosure url="https://github.com/kshavk-dev/almaknack-releases/releases/download/v0.2.2/Almaknack-0.2.2.zip" sparkle:edSignature="USNJ1E4NX9hftOabIONsAJTQ8hJR7npa8S34+fnDUE49YbSQoQOgrrM110gf61fticiMAHDOKJe8iaRiBgWICA==" length="2411217" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.2.1</title>
       <pubDate>Tue, 10 Nov 2026 17:01:26 GMT</pubDate>
       <sparkle:version>3</sparkle:version>
